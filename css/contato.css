@@ -3,6 +3,7 @@ main {
     margin: 0 auto;
     padding: 20px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 section {
@@ -52,4 +53,25 @@ button {
     cursor: pointer;
     font-size: 25px;
     font-weight: bold;
+}
+
+section p {
+    color: gray;
+    margin: 10px 0;
+}
+
+#privacidade {
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+section h2 {
+    font-size: 23px;
+    color: gray;
+    font-weight: lighter;
+    margin: 60px 0 20px 0;
+}
+
+#redes a {
+    margin-right: 30px;
 }
