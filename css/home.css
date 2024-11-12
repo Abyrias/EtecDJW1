@@ -1,7 +1,7 @@
 #principal {
     width: 100%;
     height: 400px;
-    background-image: url("../img/xicaradecafe.jpg");
+    background-image: url("../img/imagem\ A.jpg");
     background-position: center;
     text-align: center;
     color: white;
@@ -53,23 +53,23 @@
 }
 
 #i1 {
-    background: url("../img/tabelas.png") center;
+    background: url("../img/imagem\ B.jpeg") center;
 }
 
 #i2 {
-    background: url("../img/foto-m.jpg") center;
+    background: url("../img/imagem\ C.jpg") center;
 }
 
 #i3 {
-    background: url("../img/foto-p.jpg") center;
+    background: url("../img/imagem\ D.jpg") center;
 }
 
 #i4 {
-    background: url("../img/xicaradecafe.jpg") bottom;
+    background: url("../img/imagem\ E.jpg") bottom;
 }
 
 #i5 {
-    background: url("../img/foto-g.jpg") top;
+    background: url("../img/Imagem\ F.jpeg") top;
 }
 #artigos article h1 {
     color: gray;
